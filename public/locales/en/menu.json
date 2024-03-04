@@ -1,0 +1,66 @@
+{
+    "menu": {
+        "courses": "Courses",
+        "features": "Advantages",
+        "staff": "Trainers",
+        "about": "About Us",
+        "partners": "Partners"
+    },
+    "footer": {
+        "about": "Qualified Teaching, Free Practice, Guaranteed work.",
+        "contact": "Contact Us",
+        "address": {
+            "first": "Republic 22",
+            "second": "Yervand Kochar 28/2"
+        }
+    },
+    "formBox": {
+        "signin": "Sign In",
+        "begin": "Start learning",
+        "name": "Name Lastname",
+        "eMail": "E-Mail",
+        "phone": "Phone"
+    },
+    "homeHeader": {
+        "do": {
+            "firstPart": "Learn",
+            "secondPart": "programming"
+        },
+        "for": {
+            "firstPart": "Become",
+            "secondPart": "in-demand specialist"
+        },
+        "opportunity": "Qualified teaching, free practice, and guaranteed employment."
+    },
+    "HomeMain": {
+        "why": "Why Learn With Us?",
+        "becouse": "Learning with us is profitable"
+    },
+    "homeSection": {
+        "title": "Join to our team",
+        "body": "With us you can learn all programming languages, UX / UI Design. We provide an individual approach to all students, which will help you achieve your goals."
+    },
+    "partners": {
+        "title": "Read more",
+        "mainTitle": "Our partners",
+        "offer": "At the end of the course, you will have the opportunity to work in our partner organizations"
+    },
+    "about": {
+        "aboutMain": {
+            "aboutTitle": "About us",
+            "aboutBody": " SmartCode programming training company has been organizing and implementing programming courses for 7 years, with the aim of delivering qualified professionals to the labor market.",
+            "aboutBodySecond": "Following global IT trends, teaching programs are updated and improved. As a result of a specially designed program, homework and a free trial period, our students achieve great success. As a result of the work of skilled professionals, we enjoy the love and trust of our students. By partnering with IT companies, we guarantee the best student probation and employment."
+        },
+        "aboutGoals": {
+            "goalTitle": "Our goal",
+            "goalBody": "Our main goal is to make programming accessible to everyone, regardless of age, education or professional experience. We believe that anyone can learn to code and use those skills to achieve their goals.",
+            "goalBodySecond": "At SmartCode, we strive to provide our students with all the necessary facilities for successful learning. Our curriculum is designed so that students can learn at their own pace with the support of experienced teachers."
+        },
+        "aboutOffer": {
+            "title": "Join us, become competitive in the field of programming and guarantee your work with the help of SmartCode.",
+            "certificate": "At the end of the course, all students will be given a certificate.",
+            "workOffer": "And students who have shown the best results will be offered jobs in partner organizations."
+        }
+    },
+    "courses": "See more"
+}

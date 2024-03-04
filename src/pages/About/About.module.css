@@ -1,0 +1,12 @@
+.about_container {
+    width: 100%;
+    height: calc(100vh - var(--menuHeight));
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    background-color: var(--main-dark-color);
+
+    &::-webkit-scrollbar,
+    ::-webkit-scrollbar-thumb {
+        width: 0px;
+    }
+}

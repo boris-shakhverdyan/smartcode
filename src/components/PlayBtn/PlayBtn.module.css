@@ -1,0 +1,21 @@
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+    background: none;
+    outline: none;
+    color: var(--white);
+    width: clamp(60px, 5vw, 80px);
+    height: clamp(60px, 5vw, 80px);
+    font-size: clamp(20px, 5vw, 40px);
+    transition: all 1s;
+    cursor: pointer;
+    background-color: var(--main-dark-color);
+    border-radius: 50%;
+}

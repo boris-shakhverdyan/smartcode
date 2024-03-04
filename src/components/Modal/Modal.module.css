@@ -1,0 +1,83 @@
+.wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+}
+
+.modal {
+    width: 400px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: silver;
+}
+
+.modal header {
+    border-bottom: 1px solid #acacac;
+    padding: 10px 0;
+}
+
+.modal h2,
+.modal p {
+    text-align: center;
+    color: black;
+}
+
+.modal main {
+    padding: 10px;
+}
+
+.modal footer {
+    border-top: 1px solid #acacac;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+
+.modal footer .btn {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s, background-color 0.3s;
+}
+
+.btn_default:hover {
+    background-color: #ffffff;
+}
+
+.btn_danger {
+    background-color: crimson;
+    color: white;
+}
+
+.btn_danger:hover {
+    background-color: rgb(177, 31, 60);
+}
+
+.btn_success {
+    background-color: forestgreen;
+    color: white;
+}
+
+.btn_success:hover {
+    background-color: green;
+    color: white;
+}
+
+.btn_warning {
+    background-color: orange;
+    color: black;
+}
+
+.btn_warning:hover {
+    background-color: rgb(209, 149, 36);
+    color: black;
+}

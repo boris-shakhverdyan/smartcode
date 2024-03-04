@@ -1,0 +1,93 @@
+.partners {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+    overflow-y: auto;
+    max-height: calc(100vh - var(--menuHeight));
+}
+
+.partners header {
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: right;
+}
+
+.partners .addBtn {
+    padding: 10px 15px;
+    background-color: forestgreen;
+    color: white;
+}
+
+.partners table,
+.partners tr,
+.partners th,
+.partners td {
+    border: 1px solid black;
+}
+
+.partners th,
+.partners td {
+    padding: 5px;
+}
+
+.partners table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.partners thead {
+    background-color: forestgreen;
+    color: white;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners .btn {
+    width: 30px;
+    height: 30px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+}
+
+.editBtn {
+    background-color: orange;
+    color: white;
+}
+
+.editBtn:hover {
+    background-color: rgb(231, 158, 23);
+}
+
+.removeBtn {
+    background-color: crimson;
+    color: white;
+}
+
+.removeBtn:hover {
+    background-color: rgb(182, 36, 65);
+}
+
+.partner .website a {
+    color: dodgerblue;
+}
+
+.partner a:hover {
+    text-decoration: underline;
+}
+
+.partner img {
+    max-height: 100px;
+    min-width: 100%;
+    object-fit: contain;
+}

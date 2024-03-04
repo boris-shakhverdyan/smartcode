@@ -1,0 +1,42 @@
+.dashboard {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    overflow: hidden;
+}
+
+.sidebar {
+    background-color: rgb(77, 68, 92);
+    border-right: 5px solid rgb(56, 49, 68);
+}
+
+.sidebar h1 {
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.sidebar header {
+    color: var(--main-color);
+    padding: 10px;
+    border-bottom: 1px solid var(--main-color);
+}
+
+.sidebar .routeList a {
+    display: block;
+    padding: 10px;
+    color: white;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.sidebar .routeList a:hover {
+    background-color: rgb(56, 49, 68);
+    color: var(--main-color);
+}
+
+.content {
+    background-color: silver;
+}
+
+.sidebar .routeList .active {
+    background-color: rgb(56, 49, 68);
+    color: var(--main-color);
+}

@@ -1,0 +1,102 @@
+.course {
+    width: 265px;
+    padding: 2rem;
+    position: relative;
+    background-color: var(--main-dark-color);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 1rem;
+    max-height: 400px;
+    z-index: 105;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+        rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.course .card_top {
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.card_top img {
+    fill: var(--white);
+    filter: brightness(0%) invert(100%);
+    -webkit-user-drag: none;
+}
+
+.overview {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.course_card {
+    position: relative;
+}
+.course_card::before {
+    content: "";
+    display: flex;
+    border-top: 5px solid var(--card-color);
+    border-bottom: 5px solid var(--card-color);
+    position: absolute;
+    inset: -10px 20px;
+    transform: skewY(15deg);
+    z-index: 101;
+    transition: all 0.5s;
+}
+
+.course_card::after {
+    content: "";
+    display: flex;
+    position: absolute;
+    border-left: 5px solid var(--card-color);
+    border-right: 5px solid var(--card-color);
+    inset: 30px -10px;
+    transform: skew(15deg);
+    transition: all 0.5s;
+    z-index: 101;
+}
+
+.course .card_top {
+    width: 200px;
+
+    & img {
+        width: 100%;
+        aspect-ratio: 1;
+    }
+}
+
+.course_card:hover::before,
+.course_card:hover::after {
+    border-color: var(--main-color);
+    border-width: 0.5rem;
+}
+
+.card_middle {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+
+    & h2,
+    span {
+        color: var(--card-color);
+        font-family: var(--font-family-grotesk);
+    }
+}
+
+.card_bottom a {
+    background: none;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: none;
+    outline: none;
+    transition: all 0.5s;
+    cursor: pointer;
+    border: 2px solid var(--card-color);
+}
+
+.card_bottom a:hover {
+    background-color: var(--card-color);
+    color: var(--white);
+    scale: 1.05;
+}

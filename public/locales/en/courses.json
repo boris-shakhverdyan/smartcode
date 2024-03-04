@@ -1,0 +1,79 @@
+{
+    "offer": "Sign up now and get 3 trial classes for FREE!",
+    "content": "Duration of the course: {{duration}} months, 3 lessons per week (2 hours long). At the end of the course, all students will be given a certificate. The monthly fee for the course is {{price}} drams, with credit monthly : {{credit}} drams.",
+    "web-front-end": {
+        "title": "Java cours",
+        "subtitle": "SmartCode launches new 3-phase Programming from 0 (Front-End) course enrollment",
+        "mainTitle": "Stages of the course"
+    },
+    "phyton-ml-ai": {
+        "title": "Python / ML & AI cours",
+        "subtitle": "Python is the most popular programming language in the world. Today, almost all giant companies like NASA, Google, Netflix, Facebook, Instagram, Pinterest, Dropbox use Python language in their innovative projects.",
+        "mainTitle": "At the beginning of the course, you will learn the basics of the Python language and configure the environment necessary to work with Python. Then, you'll progress to an intermediate level with a real project, learning the fundamentals of object-oriented programming (OOP). After which you will gain an advanced level of Python knowledge for machine learning (ML) and artificial intelligence (AI) work. The stages of the course are"
+    },
+    "Java": {
+        "title": "Java course",
+        "subtitle": "Java is one of the most relevant and most demanded programming languages around the world. It is a great option to start a career in IT.",
+        "mainTitle": ""
+    },
+    "Javascript": {
+        "title": "Javascript course",
+        "subtitle": "Advanced Javascript programming course from zero to advanced- JavaScript is the main technology used in web programming along with HTML and CSS. If you want to become a competitive front-end developer, you need to learn JavaScript in depth. Moreover, currently JavaScript is also used in Mobile, Desktop applications and game development.",
+        "mainTitle": ""
+    },
+    "react.js-redux": {
+        "title": "React.js course",
+        "subtitle": "React is a JavaScript library for creating User Interfaces, with which you will be able to design modern and dynamic SPA sites. Creating interactive interfaces in React is very easy. You just need to describe how the different parts of the site are structured. React will update them in time when the data changes.",
+        "mainTitle": ""
+    },
+    "Nodejs": {
+        "title": "Node.js course",
+        "subtitle": "Node.js is getting better every day. If Node.js is getting better every day. If at one time it was considered part of the user, now thanks to Node.js we can already do any operation on the server: process the input fields, make changes in the database. Thanks to the asynchronous operation of Node.js, it is faster. Node.js doesn't like waiting․",
+        "mainTitle": ""
+    },
+    "dev-ops": {
+        "title": "DevOps course",
+        "subtitle": "A DevOps specialist automates the operation of websites, mobile applications on servers and ensures their secure operation. It helps the development team make changes to the code quickly and safely and ensures the smooth operation of busy projects. The demand for DevOps professionals is also high because the business does not lose its profits due to software failures.",
+        "mainTitle": "During the course, you will learn how to manage Linux systems, learn the basics and use of the Python programming language, study the work of the CI/CD methodology, and master the best practices of the DevOps profession."
+    },
+    "csharp": {
+        "title": "C# course",
+        "subtitle": "C# is considered an elegant programming language. It enables developers to create safe and secure WEB applications, Desktop applications and many other systems. These systems run on the .NET ecosystem, which includes .NET Core and the .NET Framework.",
+        "mainTitle": ""
+    },
+    "python-django": {
+        "title": "Python / DJango course",
+        "subtitle": "Python is the most popular programming language in the world. Today, almost all giant companies like NASA, Google, Netflix, Facebook, Instagram, Pinterest, Dropbox use Python language in their innovative projects. At the beginning of the course, you will learn the basics of the Python language and configure the environment necessary to work with Python. Then, you'll progress to an intermediate level with a real project, learning the fundamentals of object-oriented programming (OOP). After that, you will gain an advanced knowledge of one of the most popular Python libraries, Django, which will enable you to use the Python language to design websites.",
+        "mainTitle": "The stages of the course:"
+    },
+    "php-laaravel": {
+        "title": "PHP / Laravel course",
+        "subtitle": "PHP is a general-purpose programming language that is particularly suitable for designing dynamic web pages. Fast, flexible and pragmatic, PHP enables you to design websites of varying complexity and size, from small informative blogs to the world's most popular social portals.",
+        "mainTitle": ""
+    },
+    "web-full-stack": {
+        "title": "Web programming class ",
+        "subtitle": "SmartCode is launching a new admission to the 4-stage Programming from 0 (Full-Stack) course.",
+        "mainTitle": " Stages of the course"
+    },
+    "ui-ux-design": {
+        "title": "UI / UX Design Course",
+        "subtitle": "It is impossible to imagine any modern website or mobile application without a UX / UI designer. User Interface (UI) and User Experience (UX) play a key role in the production phase of any digital project. A UX / UI designer combines creativity and analytical thinking in his work. He is responsible for the usability and beautiful appearance of websites and applications and thus helps the business to grow and achieve its goals. It analyzes user behavior and determines how the digital product can be improved. Learn the laws of UX, the best tools and practices that allow you to create a user-friendly and understandable interface.",
+        "mainTitle": ""
+    },
+    "qa-engineer": {
+        "title": "QA-Engineer course",
+        "subtitle": "A QA Engineer or Quality Assurance Engineer is a professional who plays a crucial role in the software development process. Their primary responsibility is to ensure that digital products are of the highest quality, free of defects, and meet both technical and user requirements. They systematically test products, identify issues, and work with the development team to ensure those issues are resolved before the product reaches the end user. And working with automation systems. The scripts they write help automate manual and slower testing.",
+        "mainTitle": ""
+    },
+    "graphic-design": {
+        "title": "Graphic Design course",
+        "subtitle": "Graphic design is often the first point of contact between a business and its audience. A professionally designed logo, website or marketing material helps a business stand out from the competition, gain brand recognition and attract new customers. This course is designed to unleash your creative potential and equip you with the tools you need to become a professional. During the course, you will gain skills in all aspects of graphic design, from conceptualization to visual execution. With one-on-one guidance from our experienced trainers, you'll build an impressive portfolio that showcases your experience, helping you stand out in a competitive job market. Our flexible schedule will allow you to choose a time for classes that best fits your busy lifestyle.",
+        "mainTitle": ""
+    },
+    "product-management": {
+        "title": "Product Management cource",
+        "subtitle": "The IT Product Manager is responsible for the launch and promotion of digital products. In this case, a product can be: a mobile application, a website or any other software.",
+        "mainTitle": "The IT Product Manager has an important role in the company, without which the processes cannot move forward. He plans the work of the programming team, manages the schedule to achieve the defined end result, analyzes the consumer market, develops the marketing strategy and participates in all processes of digital product release."
+    }
+}

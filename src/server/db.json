@@ -1,0 +1,594 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "web-front-end",
+      "duration": 8,
+      "price": 58000,
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/front-end.svg",
+        "big": "https://cdn-icons-png.flaticon.com/512/2721/2721264.png"
+      },
+      "shortTitle": "WEB Front-End",
+      "title": "web-front-end.title",
+      "subtitle": "web-front-end.subtitle",
+      "description": {
+        "mainTitle": "web-front-end.mainTitle՝",
+        "stages": {
+          "first": "1. HTML5, CSS3, BOOTSTRAP, SASS",
+          "second": "2. JavaScript (Jquery)",
+          "third": "3. React.js (Redux)",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "phyton-ml-ai",
+      "duration": 7,
+      "price": 68000,
+      "credit": "25000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/python-ml.svg",
+        "big": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"
+      },
+      "shortTitle": "Phyton(ML/AI)",
+      "title": "phyton-ml-ai.title",
+      "subtitle": "phyton-ml-ai.subtitle",
+      "description": {
+        "mainTitle": "phyton-ml-ai.mainTitle",
+        "stages": {
+          "first": "1. Python (OOP)",
+          "second": "2. Python (Machine learning & AI)",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "name": "java",
+      "duration": 6,
+      "price": 68000,
+      "credit": "21000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/java.svg",
+        "big": "https://static.vecteezy.com/system/resources/previews/019/899/953/non_2x/java-free-download-free-png.png"
+      },
+      "shortTitle": "JAVA",
+      "title": "Java.title",
+      "subtitle": "Java.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "name": "javascript",
+      "duration": 3,
+      "price": 58000,
+      "credit": "9000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/javaScript.svg",
+        "big": "https://i0.wp.com/blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png?ssl=1"
+      },
+      "shortTitle": "JavaScript",
+      "title": "Javascript.title",
+      "subtitle": "Javascript.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "name": "react.js-redux",
+      "duration": 3,
+      "price": 58000,
+      "credit": "9000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/react.svg",
+        "big": "https://static-00.iconduck.com/assets.00/react-javascript-js-framework-facebook-icon-512x455-jctj7y5w.png"
+      },
+      "shortTitle": "React.js (Redux)",
+      "title": "react.js-redux.title",
+      "subtitle": "react.js-redux.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "name": "node.js",
+      "duration": 3,
+      "price": 68000,
+      "credit": "11000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/node.svg",
+        "big": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"
+      },
+      "shortTitle": "Node.js",
+      "title": "Nodejs.title",
+      "subtitle": "Nodejs.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 7,
+      "name": "dev-ops",
+      "duration": 4,
+      "price": 68000,
+      "credit": "15000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/devops.svg",
+        "big": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/1280px-Devops-toolchain.svg.png"
+      },
+      "shortTitle": "DevOps",
+      "title": "dev-ops.title",
+      "subtitle": "dev-ops.subtitle",
+      "description": {
+        "mainTitle": "dev-ops.mainTitle",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 8,
+      "name": "c-sharp",
+      "duration": 6,
+      "price": 68000,
+      "credit": "21000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/C.svg",
+        "big": "https://vectorseek.com/wp-content/uploads/2023/09/CSharp-Logo-Vector.svg-.png"
+      },
+      "shortTitle": "C#",
+      "title": "csharp.title",
+      "subtitle": "csharp.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 9,
+      "name": "python-django",
+      "duration": 5,
+      "price": 68000,
+      "credit": "18000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/python-django.svg",
+        "big": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"
+      },
+      "shortTitle": "Python (Django)",
+      "title": "python-django.title",
+      "subtitle": "python-django.subtitle",
+      "description": {
+        "mainTitle": "python-django.mainTitle",
+        "stages": {
+          "first": "1. Python (OOP)",
+          "second": "2. Django",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 10,
+      "name": "php-laravel",
+      "duration": 3,
+      "price": 68000,
+      "credit": "11000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/php.svg",
+        "big": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"
+      },
+      "shortTitle": "PHP (Laravel)",
+      "title": "php-laravel.title",
+      "subtitle": "php-laravel.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 11,
+      "name": "web-full-stack",
+      "duration": 11,
+      "price": 58000,
+      "credit": 33000,
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/full-stack.svg",
+        "big": "https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png"
+      },
+      "shortTitle": "WEB Full-Stack",
+      "title": "web-full-stack.title",
+      "subtitle": "web-full-stack.subtitle",
+      "description": {
+        "mainTitle": " web-full-stack.mainTitle",
+        "stages": {
+          "first": "1. HTML5, CSS3, BOOTSTRAP, SASS ",
+          "second": "2. JavaScript (Jquery)",
+          "third": "3. React.js (Redux)",
+          "fourth": " 4. Node.js / Python (Django) / PHP (Laravel)"
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 12,
+      "name": "ui-ux-design",
+      "duration": 4,
+      "price": 65000,
+      "credit": "14000",
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/ui-ux.svg",
+        "big": "https://www.softura.com/wp-content/uploads/2021/10/Group-256@2x.png"
+      },
+      "shortTitle": "UI / UX Design",
+      "title": "ui-ux-design.title",
+      "subtitle": "ui-ux-design.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 13,
+      "name": "qa-engineer",
+      "duration": 6,
+      "price": 68000,
+      "credit": 21000,
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/qa.svg",
+        "big": "https://neetable.com/img/software-testing-services/qa-testing-banner.png"
+      },
+      "shortTitle": "QA Engineer",
+      "title": "qa-engineer.title",
+      "subtitle": "qa-engineer.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 14,
+      "name": "graphic-design",
+      "duration": 3,
+      "price": 65000,
+      "credit": 11000,
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/graphic-design.svg?v=1.2",
+        "big": "https://cdn-eokfn.nitrocdn.com/diBQUISGKsmoTQlhuYAsruhMTNXpLtAP/assets/images/optimized/rev-490b9c2/silica.co.in/wp-content/uploads/2020/03/Graphic-Design.png"
+      },
+      "shortTitle": "Graphic Design",
+      "title": "graphic-design.title",
+      "subtitle": "graphic-design.subtitle",
+      "description": {
+        "mainTitle": "",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    },
+    {
+      "id": 15,
+      "name": "product-management",
+      "duration": 4,
+      "price": 68000,
+      "credit": 15000,
+      "posters": {
+        "small": "https://smartcode.am/public/image/courses/pm.svg",
+        "big": "https://cdni.iconscout.com/illustration/premium/thumb/e-commerce-delivery-management-5691596-4772698.png"
+      },
+      "shortTitle": "Product Management",
+      "title": "product-management.title",
+      "subtitle": "product-management.subtitle",
+      "description": {
+        "mainTitle": "product-management.mainTitle",
+        "stages": {
+          "first": "",
+          "second": "",
+          "third": "",
+          "fourth": ""
+        },
+        "content": "content",
+        "offer": "offer"
+      },
+      "isDeleted": false
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "title": "specialists.title",
+      "description": "specialists.description",
+      "icon": "specialists.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "title": "check.title",
+      "description": "check.description",
+      "icon": "check.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "title": "coffee.title",
+      "description": "coffee.description",
+      "icon": "coffee.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "title": "timeMoney.title",
+      "description": "timeMoney.description",
+      "icon": "time-money.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "title": "chatVideo.title",
+      "description": "chatVideo.description",
+      "icon": "chat-video.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "title": "support.title",
+      "description": "support.description",
+      "icon": "online-support.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 7,
+      "title": "time.title",
+      "description": "time.description",
+      "icon": "time.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 8,
+      "title": "rocket.title",
+      "description": "rocket.description",
+      "icon": "rocket.svg",
+      "isDeleted": false
+    },
+    {
+      "id": 9,
+      "title": "workOffer.title",
+      "description": "workOffer.description",
+      "icon": "assured-workload.svg",
+      "isDeleted": false
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "title": "Web Foundation LLC",
+      "logo": "https://smartcode.am/public/image/partners/webfoundationllc.svg",
+      "website": "https://webfoundationllc.com/",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "title": "Hi-Tech Gateway",
+      "logo": "https://smartcode.am/public/image/partners/hi-teck.png",
+      "website": "https://hitechgateway.com/about",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "title": "Iguan Systems",
+      "logo": "https://smartcode.am/public/image/partners/Iguan.png",
+      "website": "https://iguansystems.com/",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "title": "Evistep",
+      "logo": "https://smartcode.am/public/image/partners/evistep.png",
+      "website": "https://evistep.com/",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "title": "Bee-Web",
+      "logo": "https://smartcode.am/public/image/partners/bee-web.png",
+      "website": "https://beewebsystems.com/",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "title": "S2S",
+      "logo": "https://smartcode.am/public/image/partners/s2s.png",
+      "website": "https://www.s2s.am/",
+      "isDeleted": false
+    },
+    {
+      "id": 7,
+      "title": "Unisoft",
+      "logo": "https://smartcode.am/public/image/partners/unisoft.png",
+      "website": "https://unisoft.am/",
+      "isDeleted": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Ani Alaverdyan",
+      "image": " ",
+      "date": "11 october",
+      "text": "Անցել եմ Front-End դասընթացը , ցանկանում եմ շնորհակալություն հայտնել Սմարտկոդ ուսումնական կենտրոնին բարձրակարգ ուսումնական պայմաններ ապահովելու համար, առանձնահատուկ շնորհակալություն իմ ուսուցչին՝ Էմիլին, ով բացի իր մասնագիտական փայլուն գիտելիքներին զուգահեռ, մոտիվացնում և սովորեցնում է ուսանողներին գիտելիքի ստացման և ըմբռնման ճիշտ ուղին։ Ապագա ուսանողներին ցանկանում եմ , որպեսզի ցուցաբերեն առավելագույն աշխատասիրություն և համառություն՝ հաջողության հասնելու համար։ 💪Սիրով ՝ Կիմ 😊"
+    },
+    {
+      "id": 2,
+      "name": "Poghosyan Gev",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t39.30808-1/277307346_3302000643367623_4809482947693888224_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UNTh2ZA6YGcAX-dbydM&_nc_ht=scontent.fevn9-1.fna&oh=00_AfC3MEUDRYuTU0lm0RcFtRLI8weB0-FKqEVSSLcI-MBxXQ&oe=6546ED5D",
+      "date": "24 December 2018",
+      "text": "Անհատական մոտեցում յուրաքանչյուր ուսանողին։ Հաճելի մթնոլորտ։"
+    },
+    {
+      "id": 3,
+      "name": "Inesa Ghalumyan",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t1.6435-1/139523044_1838741362945002_4989255461917053603_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=104&ccb=1-7&_nc_sid=2b6aad&_nc_ohc=jjtNYJWLF70AX8CvUA_&_nc_ht=scontent.fevn9-1.fna&oh=00_AfCoWxJDdF5Kf-41GTVQkHFCAhrrVo8qh1zkvMsnu0eEmQ&oe=6568F4C3",
+      "date": "27 November 2020",
+      "text": "Highly recommend!!🙂 Good fundaments for learning new programming languages. It is worth mentioning that the course materials are well organized. Also, the atmosphere is friendly, which contributes to learning right there."
+    },
+    {
+      "id": 4,
+      "name": "Hasmik Petrosyan",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t39.30808-1/387764572_2323549834521735_4726345997389470777_n.jpg?stp=cp6_dst-jpg_p60x60&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BJVkSSqVtJcAX_pcErD&_nc_ht=scontent.fevn9-1.fna&oh=00_AfBnBWHPgJ2jrQiBMQaRSqZ0chTIZ9YjQXeyUrq9SYApVg&oe=6546D382",
+      "date": "06 December 2020",
+      "text": "Very good specialists and great quality ! Would highly recommend"
+    },
+    {
+      "id": 5,
+      "name": "Vitali Danilov",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t1.6435-1/40517737_657978807921033_3072328022523641856_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_ohc=lTEbjdnygNYAX_bK9-V&_nc_ht=scontent.fevn9-1.fna&oh=00_AfA_iibVjyt1rmggt9bgeEVQRHBiFe-1MEYKKjn4EViQow&oe=6568FB5F",
+      "date": "10 January 2023",
+      "text": "Ուզում եմ իմ երախտագիտությունը հայտնել SmartCode ուսումնական կենտրոնին «WEB Front-End» դասընթացի  հարմարավետ և հստակ ներկայացման համար։ Շնորհակալություն որակյալ կրթության համար,շատ գոհ եմ 😘"
+    },
+    {
+      "id": 6,
+      "name": "Հայկ Ջամբազյան",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t1.6435-1/125185369_3204307029678386_2697615139183233415_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=102&ccb=1-7&_nc_sid=2b6aad&_nc_ohc=6qUM2KXpvNsAX_PckkS&_nc_ht=scontent.fevn9-1.fna&oh=00_AfABAMoXIAGPcMUdxkSuy-jXPSvYnTDXOyWXNDGLyBs5KQ&oe=6568C9C0",
+      "date": "11 March 2021",
+      "text": "I have been studying in this office already for a long time, and I can assure that it's the very specialized office with its professional staff, the right place to improve your skills and  knowledge."
+    },
+    {
+      "id": 7,
+      "name": "Mariam Sharoyan",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t39.30808-1/248659130_4187422788035006_9037955196112022_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mTTq023iL-wAX-2OXw3&_nc_ht=scontent.fevn9-1.fna&oh=00_AfCYV-_MtcyhQ5w9pyJPsQT3lW6KwCtAQ27StxI0cD0Wvg&oe=65471E93",
+      "date": "12 June 2019",
+      "text": "The Best Programming Team 💪👍👍👏👏❤"
+    },
+    {
+      "id": 8,
+      "name": "Anushavan Yeghiazaryan",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t39.30808-1/394465482_2411711165687188_7926521008372920580_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qI_FCzFzvM8AX_z-DXt&_nc_ht=scontent.fevn9-1.fna&oh=00_AfC8JeOVUadT3HzbyOmuWQzLIIZA_NlmOP_lMijAmgJHfA&oe=65457881",
+      "date": "21 January 2021",
+      "text": "Լավագույն ուսուցման կենտրոնը😊"
+    },
+    {
+      "id": 9,
+      "name": "Gohar Hovsepyan",
+      "image": "https://scontent.fevn9-1.fna.fbcdn.net/v/t39.30808-1/396961273_3718674168376084_8503439064900395179_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KaQXLv9qmasAX9privl&_nc_ht=scontent.fevn9-1.fna&oh=00_AfBCFWPNO4A8WBE7bU6NPfGMbrP-MIHLQa63XXIWnsrTWw&oe=6547518E",
+      "date": "12 December 2020",
+      "text": "Թույն ծառայություններ, թույն մասնագետների կողմից։"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "email": "admin@smartcode.com",
+      "username": "admin",
+      "password": "admin",
+      "type": "admin"
+    },
+    {
+      "id": 2,
+      "firstName": "Boris",
+      "lastName": "Shakhverdyan",
+      "email": "boris@gmail.com",
+      "username": "boris",
+      "password": "boris",
+      "type": "user"
+    }
+  ]
+}

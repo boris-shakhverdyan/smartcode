@@ -1,0 +1,38 @@
+{
+    "specialists": {
+        "title": "Experienced professionals",
+        "description": "Experienced professionals will provide you with seemingly complex information in a fairly simplified form."
+    },
+    "check": {
+        "title": "Small groups, individual approach",
+        "description": "The courses are held in groups of 6-8 students, ensuring an individual approach to each student."
+    },
+    "coffee": {
+        "title": "Comfortable furnished classrooms",
+        "description": "Learning process will become even more pleasant in our comfortably furnished classrooms."
+    },
+    "timeMoney": {
+        "title": "Possibility of free participation in 3 classes",
+        "description": "All students will be given 3  free lessons, which will give you the opportunity to try your hand and get acquainted with the course."
+    },
+    "chatVideo": {
+        "title": "Class recording",
+        "description": "At the end of each lesson, you will also receive a video of the lesson to repeat at home."
+    },
+    "support": {
+        "title": "Online assistant",
+        "description": "Throughout the course, you will receive remote support from a specialist."
+    },
+    "time": {
+        "title": "Credit training",
+        "description": "A very good opportunity to study on credit terms and pay for the tuition at the end of the course after getting a job."
+    },
+    "rocket": {
+        "title": "Career growth",
+        "description": "All students will get 1 month free training from our HR specialist to create a successful career."
+    },
+    "workOffer": {
+        "title": "Job offer",
+        "description": "At the end of the course, students who have shown the best results will be offered jobs in partner organizations."
+    }
+}

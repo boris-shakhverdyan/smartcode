@@ -1,0 +1,30 @@
+.parallax {
+    line-height: 0.8;
+    margin: 0;
+    white-space: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: transparent;
+    padding: 0 1em;
+    overflow: hidden;
+}
+
+.parallax .scroller {
+    display: flex;
+}
+
+.parallax img {
+    margin-right: 30px;
+    color: var(--main-dark-color);
+    width: 60px;
+}
+
+@media (max-width: 980px) {
+    .parallax {
+        width: 100%;
+    }
+
+    .parallax .scroller {
+        width: 100%;
+    }
+}

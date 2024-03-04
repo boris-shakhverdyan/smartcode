@@ -1,0 +1,50 @@
+.minimap.light {
+    --minimap-primary-color: white;
+    --minimap-active-color: var(--main-color);
+}
+
+.minimap.dark {
+    --minimap-primary-color: rgb(54 53 65);
+    --minimap-active-color: var(--main-color);
+}
+
+.minimap {
+    height: calc(100vh - 70px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
+
+.minimap .item {
+    width: 15px;
+    height: 15px;
+    background-color: var(--minimap-primary-color);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.minimap .item.active {
+    background-color: var(--minimap-active-color);
+    box-shadow: 0 0 5px 1px var(--minimap-active-color);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.5s;
+}
+
+@media (max-width: 450px) {
+    .minimap .item {
+        width: 5px;
+        height: 5px;
+    }
+}

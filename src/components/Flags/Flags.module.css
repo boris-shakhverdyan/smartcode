@@ -1,0 +1,13 @@
+.translate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lngBar {
+    width: 20px;
+    & img {
+        width: 100%;
+        cursor: pointer;
+    }
+}

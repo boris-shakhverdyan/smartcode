@@ -1,0 +1,93 @@
+.features {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+    overflow-y: auto;
+    max-height: calc(100vh - var(--menuHeight));
+}
+
+.features header {
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: right;
+}
+
+.features .addBtn {
+    padding: 10px 15px;
+    background-color: forestgreen;
+    color: white;
+}
+
+.features table,
+.features tr,
+.features th,
+.features td {
+    border: 1px solid black;
+}
+
+.features th,
+.features td {
+    padding: 5px;
+}
+
+.features table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.features thead {
+    background-color: forestgreen;
+    color: white;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.features .btn {
+    width: 30px;
+    height: 30px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+}
+
+.editBtn {
+    background-color: orange;
+    color: white;
+}
+
+.editBtn:hover {
+    background-color: rgb(231, 158, 23);
+}
+
+.removeBtn {
+    background-color: crimson;
+    color: white;
+}
+
+.removeBtn:hover {
+    background-color: rgb(182, 36, 65);
+}
+
+.feature .website a {
+    color: dodgerblue;
+}
+
+.feature a:hover {
+    text-decoration: underline;
+}
+
+.feature img {
+    max-height: 100px;
+    min-width: 100%;
+    object-fit: contain;
+}
